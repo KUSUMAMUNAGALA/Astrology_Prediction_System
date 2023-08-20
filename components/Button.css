@@ -1,0 +1,118 @@
+:root{
+    --primary: #fff
+}
+
+.btn{
+    padding: 8px 20px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.bt--primary{
+    background-color: var(--primary-bg);
+    color: #242424;
+    border: 1px solid var(--primary);
+}
+
+.bt--outline{
+    background-color: transparent;
+    color: #fff;
+    padding: 8px 20px;
+    border: 1px solid var(--primary);
+    transition: all 0.3s ease-out;
+}
+
+.btn--medium{
+    padding: 8px 20px;
+    font-size: 20px;
+}
+
+.btn--large{
+    padding: 12px 26px;
+    font-size: 20px;
+}
+
+.btn--medium:hover, .btn--large:hover{
+    background: #fff;
+    color: #242424;
+    transition: all 0.3s ease-out;
+}
+
+
+/* CSS */
+.page{
+  height: 170vh;
+  text-align: center;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 50px;
+    padding: 10px;
+}
+
+.button-56 {
+  background-color: #1cd6eb;
+  border: 2px solid #111;
+  border-radius: 8px;
+  box-sizing: border-box;
+  color: #111;
+  cursor: pointer;
+  
+  padding: 10px;
+  font-family: Inter,sans-serif;
+  font-size: 20px;
+  height: 48px;
+  
+  line-height: 24px;
+  margin: 10px;
+  
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-56:after {
+  background-color: wheat;
+  border-radius: 8px;
+  content: "";
+  display: block;
+  height: 48px;
+  left: 0;
+  width: 100%;
+  position: absolute;
+  top: -2px;
+  transform: translate(8px, 8px);
+  transition: transform .2s ease-out;
+  z-index: -1;
+}
+
+.button-56:hover:after {
+  transform: translate(0, 0);
+}
+
+.button-56:active {
+  background-color: #ffdeda;
+  outline: 0;
+}
+
+.button-56:hover {
+  outline: 0;
+}
+
+@media (min-width: 768px) {
+  .button-56 {
+    padding: 0 40px;
+  }
+}
+
+.sign{
+    color: rgb(230, 97, 15);
+}
+
+
