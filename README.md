@@ -78,10 +78,10 @@ After Login/Signup We Redirect to the localhost:3000/option page
 ![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/a1cf0caf-49fd-4e16-b7eb-fcd417648294)
 
 
-We have to Select Our choice:
+We have to Select Our Choice:
 ----------------------------
-If we click //
 ~ZODIAC INFO:
+~~~~~~~~~~~~~
 ![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/b2ddf5a8-c896-45ea-a398-a5e93cb13fe0)
 After filling in the info we get the Zodiac Sign-
 ![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/67b7e9c1-c7d4-474e-b3a3-f887b77dd1c4)
@@ -89,6 +89,7 @@ We get the Zodiac Sign information I have done with the help of API Link.
 ![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/8f0bcc09-936a-486d-a173-6b6ff6e69ca3)
 
 ~ZODIAC MATCHING:
+~~~~~~~~~~~~~~~~~
 ![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/54772a73-c25f-4d58-9fe3-aae7f3a6aa05)
 Now we have to Select Compatibility Signs-
 ![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/4dbc1296-df1a-4603-8bbd-68f8faadffba)
