@@ -35,9 +35,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc.) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point, you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
@@ -70,14 +70,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify]
 
 My React Output:
-(https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/e1d45866-478a-4266-abe6-cc1c619da32a
+
 
 After Login/Signup We Redirect to the localhost:3000/option page
 ![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/a1cf0caf-49fd-4e16-b7eb-fcd417648294)
 
 
-We have to Select Our choice 
-If we click 
+We have to Select Our choice:
+----------------------------
+If we click //
 ~ZODIAC INFO:
 ![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/b2ddf5a8-c896-45ea-a398-a5e93cb13fe0)
 After filling in the info we get the Zodiac Sign-
@@ -88,7 +91,8 @@ We get the Zodiac Sign information I have done with the help of API Link.
 ~ZODIAC MATCHING:
 ![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/54772a73-c25f-4d58-9fe3-aae7f3a6aa05)
 Now we have to Select Compatibility Signs-
-![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/e1986c4b-b849-47da-9c4a-c7f40320ee36)
+![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/4dbc1296-df1a-4603-8bbd-68f8faadffba)
+
 The result of Compatibility Signs Matching-
 ![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/6de423b9-5677-4f67-a640-0988d8f3dec6)
 
