@@ -67,9 +67,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify]
+
+My React Output:
+(https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+After Login/Signup We Redirect to the localhost:3000/option page
+![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/a1cf0caf-49fd-4e16-b7eb-fcd417648294)
 
 
-My output:
-![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/5f6e683e-b3be-4795-80f2-5f204a764875)
+We have to Select Our choice 
+If we click 
+~ZODIAC INFO:
+![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/b2ddf5a8-c896-45ea-a398-a5e93cb13fe0)
+After filling in the info we get the Zodiac Sign-
+![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/67b7e9c1-c7d4-474e-b3a3-f887b77dd1c4)
+We get the Zodiac Sign information I have done with the help of API Link.
+![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/8f0bcc09-936a-486d-a173-6b6ff6e69ca3)
+
+~ZODIAC MATCHING:
+![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/54772a73-c25f-4d58-9fe3-aae7f3a6aa05)
+Now we have to Select Compatibility Signs-
+![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/e1986c4b-b849-47da-9c4a-c7f40320ee36)
+The result of Compatibility Signs Matching-
+![image](https://github.com/KUSUMAMUNAGALA/SDP-2_MSWD/assets/111728537/6de423b9-5677-4f67-a640-0988d8f3dec6)
+
+
 
